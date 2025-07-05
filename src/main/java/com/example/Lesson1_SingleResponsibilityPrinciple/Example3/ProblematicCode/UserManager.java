@@ -1,4 +1,4 @@
-package com.example.SRP.Example3.ProblematicCode;
+package com.example.Lesson1_SingleResponsibilityPrinciple.Example3.ProblematicCode;
 
 public class UserManager {
     public void createUser(String userName){

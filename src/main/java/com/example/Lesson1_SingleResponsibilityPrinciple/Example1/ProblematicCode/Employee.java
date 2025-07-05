@@ -1,4 +1,4 @@
-package com.example.SRP.Example1.ProblematicCode;
+package com.example.Lesson1_SingleResponsibilityPrinciple.Example1.ProblematicCode;
 
 public class Employee {
     private int id;
