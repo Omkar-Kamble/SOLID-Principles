@@ -1,4 +1,4 @@
-package com.example.SRP.BetterCode;
+package com.example.SRP.Example1.BetterCode;
 
 public class EmployeeSalaryCalculator {
     public double calculateSalary(Employee employee){
